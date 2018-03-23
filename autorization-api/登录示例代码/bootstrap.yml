@@ -1,0 +1,6 @@
+security:
+  oauth2:
+    client:
+      accessTokenUri: http://192.168.66.159:8089/uaa/oauth/token
+      clientId: xxxx
+      clientSecret: xxxxx
